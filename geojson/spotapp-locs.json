@@ -6,7 +6,7 @@
       "properties": {
 		"owner":"Katherine Johnson",
 		"price":"$10",
-		"availability":"1/19/2020",
+		"availability":"1/19/2020"
 	  },
       "geometry": {
         "type": "Point",
@@ -21,7 +21,7 @@
       "properties": {
 		"owner":"Ada Lovelace",
 		"price":"$15",
-		"availability":"1/20/2020",
+		"availability":"1/20/2020"
 	  },
       "geometry": {
         "type": "Point",
@@ -36,7 +36,7 @@
       "properties": {
 	  "owner":"Katherine Johnson",
 		"price":"$17.5",
-		"availability":"1/19/2020",
+		"availability":"1/19/2020"
 	  },
       "geometry": {
         "type": "Point",
@@ -51,7 +51,7 @@
       "properties": {
 	  "owner":"Katherine Johnson",
 		"price":"$9",
-		"availability":"1/19/2020",
+		"availability":"1/19/2020"
 	  },
       "geometry": {
         "type": "Point",
@@ -66,7 +66,7 @@
       "properties": {
 	  "owner":"LaTanya Sweeney",
 		"price":"$8.25",
-		"availability":"1/19/2020",
+		"availability":"1/19/2020"
 	  },
       "geometry": {
         "type": "Point",
@@ -81,7 +81,7 @@
       "properties": {
 	  "owner":"LaTanya Sweeney",
 		"price":"$25",
-		"availability":"1/19/2020",
+		"availability":"1/19/2020"
 	  },
       "geometry": {
         "type": "Point",
@@ -96,7 +96,7 @@
       "properties": {
 	  "owner":"LaTanya Sweeney",
 		"price":"$27",
-		"availability":"1/19/2020",
+		"availability":"1/19/2020"
 	  },
       "geometry": {
         "type": "Point",
@@ -111,7 +111,7 @@
       "properties": {
 	  "owner":"Evelyn Granville",
 		"price":"$9",
-		"availability":"1/19/2020",
+		"availability":"1/19/2020"
 	  },
       "geometry": {
         "type": "Point",
@@ -126,7 +126,7 @@
       "properties": {
 	  "owner":"Evelyn Granville",
 		"price":"$17",
-		"availability":"1/19/2020",
+		"availability":"1/19/2020"
 	  },
       "geometry": {
         "type": "Point",
@@ -141,7 +141,7 @@
       "properties": {
 	  "owner":"Dr. Marjorie Brown",
 		"price":"$17",
-		"availability":"1/19/2020",
+		"availability":"1/19/2020"
 	  },
       "geometry": {
         "type": "Point",
@@ -156,7 +156,7 @@
       "properties": {
 	  "owner":"Dr. Marjorie Brown",
 		"price":"$18.50",
-		"availability":"1/19/2020",
+		"availability":"1/19/2020"
 	  },
       "geometry": {
         "type": "Point",
@@ -171,7 +171,7 @@
       "properties": {
 	  "owner":"Ada Lovelace",
 		"price":"$30",
-		"availability":"1/19/2020",
+		"availability":"1/19/2020"
 	  },
       "geometry": {
         "type": "Point",
@@ -186,7 +186,7 @@
       "properties": {
 	  "owner":"Susan Wojcicki",
 		"price":"$32",
-		"availability":"1/19/2020",
+		"availability":"1/19/2020"
 	  },
       "geometry": {
         "type": "Point",
@@ -201,7 +201,7 @@
       "properties": {
 	  "owner":"Dr. Marjorie Brown",
 		"price":"$33",
-		"availability":"1/19/2020",
+		"availability":"1/19/2020"
 	  },
       "geometry": {
         "type": "Point",
@@ -216,7 +216,7 @@
       "properties": {
 	  "owner":"Ada Lovelace",
 		"price":"$27",
-		"availability":"1/19/2020",
+		"availability":"1/19/2020"
 	  },
       "geometry": {
         "type": "Point",
@@ -231,7 +231,7 @@
       "properties": {
 	  "owner":"Susan Wojcicki",
 		"price":"$23",
-		"availability":"1/19/2020",
+		"availability":"1/19/2020"
 	  },
       "geometry": {
         "type": "Point",
@@ -246,7 +246,7 @@
       "properties": {
 	  "owner":"Hedy Lamarr",
 		"price":"$5",
-		"availability":"1/19/2020",
+		"availability":"1/19/2020"
 	  },
       "geometry": {
         "type": "Point",
@@ -261,7 +261,7 @@
       "properties": {
 	  "owner":"Ada Lovelace",
 		"price":"$5.50",
-		"availability":"1/19/2020",
+		"availability":"1/19/2020"
 	  },
       "geometry": {
         "type": "Point",
@@ -276,7 +276,7 @@
       "properties": {
 	  "owner":"Grace Hopper",
 		"price":"$57",
-		"availability":"1/19/2020",
+		"availability":"1/19/2020"
 	  },
       "geometry": {
         "type": "Point",
@@ -291,7 +291,7 @@
       "properties": {
 	  "owner":"Hedy Lamarr",
 		"price":"$43",
-		"availability":"1/19/2020",
+		"availability":"1/19/2020"
 	  },
       "geometry": {
         "type": "Point",
@@ -306,7 +306,7 @@
       "properties": {
 	  "owner":"Grace Hopper",
 		"price":"$48",
-		"availability":"1/19/2020",
+		"availability":"1/19/2020"
 	  },
       "geometry": {
         "type": "Point",
