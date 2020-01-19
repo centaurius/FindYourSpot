@@ -9,7 +9,6 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Find your Spot.</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -24,12 +23,26 @@
     <link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
 
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
+	
+	<style>
+		#app{
+			display:block;
+			position:absolute;
+			bottom:0px;
+			left:120px;
+			width:80%;
+			height:90%;
+			top:100px;
+		}
+		#footer{
+			position:absolute;
+			z-index:9999;
+			bottom:0px;
+			top:100%;
+			left:5%;
+		}
+	</style>
+	
 
 	
 	
@@ -77,8 +90,13 @@
     </nav>
 
 
-
-
+	<section id="download-content">
+	<div>
+		<p align="middle"><iframe id="app" src="application.html"></iframe></p>
+	</div>
+	</section>
+	
+	
 
 
 
@@ -86,11 +104,11 @@
 
 
     <!-- Footer -->
-    <footer>
+    <section id="footer">
         <div class="container text-center">
             <p>Copyright &copy; Hamilton A. White 2020 - present</p>
         </div>
-    </footer>
+    </section>
 
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
